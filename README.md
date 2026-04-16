@@ -16,8 +16,8 @@ The project focuses on creating an engaging user interface with a clean layout a
 
 ## 🛠️ Tech Stack
 
-- **HTML5** – Structure of the game  
-- **CSS3** – Styling and layout design  
+- **HTML** – Structure of the game  
+- **CSS** – Styling and layout design  
 
 ---
 
